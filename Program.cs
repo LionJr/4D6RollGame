@@ -53,7 +53,12 @@
 
 class AbilityScoreCalculator
 {
-  public int RollResult = 14;
+  static Random random1 = new Random();
+  static Random random2 = new Random();
+  static Random random3 = new Random();
+  static Random random4 = new Random();
+
+  public int RollResult = random1.Next(1,7) + random2.Next(1,7) + random3.Next(1,7) + random4.Next(1,7);
   public double DivideBy = 1.75;
   public int AddAmount = 2;
   public int Minimum = 3;
