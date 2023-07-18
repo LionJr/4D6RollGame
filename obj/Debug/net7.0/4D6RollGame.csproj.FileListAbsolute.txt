@@ -1,0 +1,15 @@
+C:\dotnet\C#\HeadFirst\4D6RollGame\bin\Debug\net7.0\4D6RollGame.exe
+C:\dotnet\C#\HeadFirst\4D6RollGame\bin\Debug\net7.0\4D6RollGame.deps.json
+C:\dotnet\C#\HeadFirst\4D6RollGame\bin\Debug\net7.0\4D6RollGame.runtimeconfig.json
+C:\dotnet\C#\HeadFirst\4D6RollGame\bin\Debug\net7.0\4D6RollGame.dll
+C:\dotnet\C#\HeadFirst\4D6RollGame\bin\Debug\net7.0\4D6RollGame.pdb
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.csproj.AssemblyReference.cache
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.AssemblyInfoInputs.cache
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.AssemblyInfo.cs
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.csproj.CoreCompileInputs.cache
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.dll
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\refint\4D6RollGame.dll
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.pdb
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\4D6RollGame.genruntimeconfig.cache
+C:\dotnet\C#\HeadFirst\4D6RollGame\obj\Debug\net7.0\ref\4D6RollGame.dll
